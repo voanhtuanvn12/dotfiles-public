@@ -1,0 +1,3 @@
+mkdir -p ~/.config/wezterm
+ln -sf ~/path/to/your-repo/wezterm.lua ~/.config/wezterm/wezterm.lua
+

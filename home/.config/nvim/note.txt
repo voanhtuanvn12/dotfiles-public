@@ -1,0 +1,5 @@
+mkdir -p ~/.config/nvim
+ln -sf ~/path/to/your-repo/init.lua ~/.config/nvim/init.lua
+
+
+ln -sf ~/path/to/your-repo ~/.config/nvim
